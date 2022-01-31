@@ -1,0 +1,23 @@
+<picture class="swiper-slide">
+  <source type="image/webp" media="(min-width: 700px) and (max-height: 500px)" srcset="{{.Mobile.URL}}?fm=webp&w=800&h=350&q=70&fit=fill">
+  <source type="image/png" media="(min-width: 700px) and (max-height: 500px)" srcset="{{.Mobile.URL}}?q=70&w=800&h=350&fit=fill">
+
+  <source type="image/webp" media="(max-width: 700px)" srcset="{{.Mobile.URL}}?fm=webp&w=500&h=500&q=70&fit=fill">
+  <source type="image/png" media="(max-width: 700px)" srcset="{{.Mobile.URL}}?q=70&w=500&h=500&fit=fill">
+
+  <source type="image/jpg" media="(max-width: 1000px)" srcset="{{.Mobile.URL}}?fm=jpg&fl=progressive&w=800&h=800&fit=fill&q=50">
+
+  <source type="image/webp" media="(min-width: 2000px)" srcset="{{.Desktop.URL}}?fm=webp&w=2560&h=1000&q=50&fit=fill">
+  <source type="image/png" media="(min-width: 2000px)" srcset="{{.Desktop.URL}}?q=50&w=2560&h=1000&fit=fill">
+
+  <source type="image/webp" media="(min-width: 1000px) and (max-width: 2000px) and (min-height: 1100px)" srcset="{{.Desktop.URL}}?fm=webp&w=2000&h=1000&q=50&fit=fill">
+  <source type="image/png" media="(min-width: 1000px) and (max-width: 2000px) and (min-height: 1100px)" srcset="{{.Desktop.URL}}?q=50&w=2000&h=1000&fit=fill">
+
+  <source type="image/webp" media="(min-width: 1000px) and (max-width: 2000px) and (max-height: 1000px)" srcset="{{.Desktop.URL}}?fm=webp&w=1000&h=500&q=50&fit=fill">
+  <source type="image/png" media="(min-width: 1000px) and (max-width: 2000px) and (max-height: 1000px)" srcset="{{.Desktop.URL}}?q=50&w=1000&h=500&fit=fill">
+
+  <source type="image/webp" media="(min-width: 1000px) and (min-height: 800px)" srcset="{{.Mobile.URL}}?fm=webp&w=1000&h=1000&q=50&fit=fill">
+  <source type="image/png" media="(min-width: 1000px) and (min-height: 800px)" srcset="{{.Mobile.URL}}?q=50&w=1000&h=1000&fit=fill">
+
+  <img src="{{.Desktop.URL}}" alt="{{.Desktop.Description}}">
+</picture>

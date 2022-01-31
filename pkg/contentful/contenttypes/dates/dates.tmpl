@@ -1,0 +1,13 @@
+<section class="dates">
+  <h1>{{.Icon}} {{.Title}}</h1>
+  <ul>
+  {{range $i, $date := .Dates}}
+    <li>
+      <span class="{{if $date.Available}}available{{end}}">{{$date.From}} - {{$date.To}}</span>
+      <span class="{{if $date.Available}}available{{end}}">{{$date.Text}} {{if $date.Available}}{{$.CheckIcon}}{{end}}</span>
+    </li>
+  {{end}}
+  </ul>
+</section>
+
+

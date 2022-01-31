@@ -1,0 +1,6 @@
+{{define "block"}}
+<section>
+  {{if (ne .Title "")}}<h1>{{if (ne .Icon "")}}{{.Icon}}{{end}} {{.Title}}</h1>{{end}}
+  {{.Content.Render .RenderContext}}
+</section>
+{{end}}

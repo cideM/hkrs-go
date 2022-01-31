@@ -1,0 +1,73 @@
+{{define "heading-3"}}
+<h3>
+    {{range $i, $child := .Node.Content}}
+      {{$child.Render $.RenderContext}}
+    {{end}}
+</h3>
+{{end}}
+
+{{define "heading-1"}}
+<h1>
+    {{range $i, $child := .Node.Content}}
+      {{$child.Render $.RenderContext}}
+    {{end}}
+</h1>
+{{end}}
+
+{{define "heading-2"}}
+<h2>
+    {{range $i, $child := .Node.Content}}
+      {{$child.Render $.RenderContext}}
+    {{end}}
+</h2>
+{{end}}
+
+{{define "list-item"}}
+<li>
+    {{range $i, $child := .Node.Content}}
+      {{$child.Render $.RenderContext}}
+    {{end}}
+</li>
+{{end}}
+
+{{define "unordered-list"}}
+<ul>
+    {{range $i, $child := .Node.Content}}
+      {{$child.Render $.RenderContext}}
+    {{end}}
+</ul>
+{{end}}
+
+{{define "hyperlink"}}
+<a href="{{ index .Node.Data "uri" }}">
+    {{range $i, $child := .Node.Content}}
+      {{$child.Render $.RenderContext}}
+    {{end}}
+</a>
+{{end}}
+
+{{define "paragraph"}}
+<p>{{range $i, $child := .Node.Content}}{{$child.Render $.RenderContext}}{{end}}</p>
+{{end}}
+
+{{define "text" -}}
+{{range $i, $m := .Node.Marks}}
+  {{if (eq $m.MarkType "bold")}}<b>{{end}}
+  {{if (eq $m.MarkType "italic")}}<i>{{end}}
+  {{if (eq $m.MarkType "underline")}}<u>{{end}}
+{{end -}}
+
+{{- .Node.Value -}}
+
+{{range $i, $m := .Node.Marks}}
+  {{- if (eq $m.MarkType "bold") -}}</b>{{end}}
+  {{- if (eq $m.MarkType "italic")}}</i>{{end}}
+  {{- if (eq $m.MarkType "underline")}}</u>{{end}}
+{{- end -}}
+{{end}}
+
+{{define "document"}}
+    {{range $i, $child := .Node.Content}}
+      {{$child.Render $.RenderContext}}
+    {{end}}
+{{end}}

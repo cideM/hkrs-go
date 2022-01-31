@@ -1,0 +1,6767 @@
+{
+  "sys": {
+    "type": "Array"
+  },
+  "total": 44,
+  "skip": 0,
+  "limit": 100,
+  "items": [
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "45jPx1fhpL2Klhr885ct63",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "page"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-10T19:47:47.286Z",
+        "updatedAt": "2022-02-21T12:19:06.639Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "url": "advanced",
+        "title": "Advanced",
+        "blocks": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6XvqXqONSIiJDw8ScZYIaj"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "fUptXlUyU9xDTibacBXF9"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "1ZWviFx3XJA0GpcW26Ryx5"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6aCK4WAjZ6DFtgvFZkn072"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "7zNS48LPfGLCkwzfm7cgfU"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "1qdICiWwdQ6bGJk2VKDuFX"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4t32oPHFG9c920q6qO50yf"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6B1gjqqetIJqjmHqEiNPrD"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4zSqfeqd1RWkoydxTKj6zK"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "y4tvOvDgSerTNxr1PUbZw"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "DZ9O50xrzp87c6vaq45RA"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "7DLQDjyD08VDbAdsMzCLG"
+            }
+          }
+        ],
+        "slideshow": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6MzJxXbpkgySXfsuBZCqzV"
+          }
+        },
+        "position": 2,
+        "topNavigation": true,
+        "callToAction": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "6narQkzlorzR5tKXkAzFoU"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "1qdICiWwdQ6bGJk2VKDuFX",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "advancedProduct"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T12:18:51.390Z",
+        "updatedAt": "2022-02-21T12:18:58.102Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Termine",
+        "icon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7BA8Z3aMWISCkbXdNTQpJv"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "7DLQDjyD08VDbAdsMzCLG",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "advancedProduct"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T12:18:43.438Z",
+        "updatedAt": "2022-02-21T12:18:43.438Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {}
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "6narQkzlorzR5tKXkAzFoU",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "purchaseButton"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T12:08:42.362Z",
+        "updatedAt": "2022-02-21T12:09:00.791Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Zur Buchung",
+        "url": "https://www.bergpuls.at/angebote/hochtourenkurs-gletscherkurs-aufbaumodul-advanced/",
+        "icon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1CTGQmRiRMwsPHY3r4o9xu"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "2rkkUp4xW5f1LySEtx8KzP",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-11T09:48:09.664Z",
+        "updatedAt": "2022-02-21T12:08:28.888Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Kurs Basic",
+        "content": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Der Hochtourenkurs BASIC ist der ideale Kurs für Anfänger! Am Dachstein \nlernst du alle elementaren Grundtechniken und Grundkenntnisse, um \nselbstständig und sicher auf deinen ersten Hochtouren unterwegs zu sein.\n Der Kurs findet auf der Simonyhütte auf 2203m statt. Das ausgezeichnete\n und vielseitige Gebirge und Übungsgelände im Fels und Eis machen das \nDachstein Base Camp perfekt für diesen Hochtourenkurs.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1700QLZGUlXPJmGMcaS550"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "5zOF5vdrorigxHQIrsOwAB",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "purchaseButton"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T10:58:34.337Z",
+        "updatedAt": "2022-02-21T11:44:47.481Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Zur Buchung",
+        "url": "https://www.bergpuls.at/angebote/hochtourenkurs-gletscherkurs-fuer-anfaenger-basic/",
+        "icon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1CTGQmRiRMwsPHY3r4o9xu"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "BOq3aylEvjMOGNuh1oOoj",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "page"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-05T16:38:16.125Z",
+        "updatedAt": "2022-02-21T10:58:40.360Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "url": "index",
+        "title": "Basic",
+        "blocks": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "2rkkUp4xW5f1LySEtx8KzP"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "2oFb2pdz8e7NmOFKd6RWHP"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "583G5rLDHxTgIBwFLUOqMQ"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4eetxiVO2zshe5yiS9szbD"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6nDezB3YtiIoBWdSq7Q3e"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "Kjk3T6eLJZ3ImMHEzDYXi"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4L0EobREDUJmt0GFJLIOgv"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6olwbTtsPGROzTggoq2Kno"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6RizSP4lGahN9pCvuq9FxB"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "2XWYDCVHLDLAH5wZ5qJAfY"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "5Wiyh21lHmdD5hQ9FcT2F7"
+            }
+          }
+        ],
+        "slideshow": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "3XrDE5yEc6KK1jC4gnhokx"
+          }
+        },
+        "position": 1,
+        "topNavigation": true,
+        "callToAction": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5zOF5vdrorigxHQIrsOwAB"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "6rz0wRnqXHzklHnFxbsNwQ",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "page"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T10:25:26.285Z",
+        "updatedAt": "2022-02-21T10:40:28.730Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "url": "impressum",
+        "title": "Impressum",
+        "blocks": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "2zQFkTvgHZo6XqJ3LUb2ff"
+            }
+          }
+        ],
+        "position": 3,
+        "topNavigation": false
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "2zQFkTvgHZo6XqJ3LUb2ff",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T10:25:44.504Z",
+        "updatedAt": "2022-02-21T10:25:54.244Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Medieninhaber und für den Inhalt veranwortlich:",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "BERGPULS Hochtourenkurs KG",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Admonterstrasse 66",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "A-8940 Liezen",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "+43 676 74 000 82",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "mail: office@bergpuls.at",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Firmennummer: FN 492467 t",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "hyperlink",
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "Datenschutzerklärung",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ],
+                  "data": {
+                    "uri": "https://www.hochtourenkurs.at/privacy"
+                  }
+                },
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-2",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nAGB",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nBuchung",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Buchungen können schriftlich per E-Mail oder telefonisch vorgenommen werden. Die Buchung wird von uns mit einer Buchungsbestätigung bestätigt und ist damit verbindlich. Mit der Buchung werden die „Allgemeinen Geschäftsbedingungen“ Bestandteil des Vertrages. Damit wir freie Plätze gewährleisten können ist eine frühe Buchung sinnvoll.\nBei gleichzeitiger Anmeldung mehrerer Teilnehmer haftet derjenige für die Begleichung des Rechnungsbetrages, der die Anmeldung vornimmt.\nIm Übrigen haften bei Abschluss eines Bergführervertrages für die Leitung einer Veranstaltung mit mehreren Personen alle Gäste für den Honoraranspruch solidarisch zur ungeteilten Hand.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nBezahlung",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Die Bezahlung erfolgt nach der erbrachten Leistung in Bar oder per Überweisung. Bezahlungen mittels Bankomat oder Kreditkarte sind nicht möglich.\nNicht in den Leistungen angeführte Zusatzkosten sind vom Teilnehmer zu tragen. Gutscheingültigkeit: 2 Jahre",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nStornierung durch den Kunden",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Eine Stornierung durch den Kunden ist schriftlich jederzeit möglich. Abhängig vom Zeitpunkt der Stornierung werden dem Kunden nachfolgende Stornogebühren in Rechnung gestellt:",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "    30 bis 20 Tage vor Veranstaltungsbeginn 50% des Veranstaltungspreises.\n    19 bis 8 Tage vor Veranstaltungsbeginn 80% des Veranstaltungspreises.\n    Bis 7 Tage vor Veranstaltungsbeginn 100% des Veranstaltungspreises.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Sollten bei bereits reservierten Hütten, Hotels oder Transferleistungen (Taxi bzw. Mietwagenkosten) Stornogebühren anfallen, so sind diese vom Kunden zu übernehmen. Daher wird empfohlen, eine Reiserücktrittsversicherung abzuschließen.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nVersicherung",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Bei Buchung unserer Veranstaltungen sind keine Versicherungen inkludiert. Wir empfehlen daher, für ausreichenden Versicherungsschutz wie z.B. Kranken-, Unfall-, Bergekosten- und Reiserücktrittsversicherung selbst zu sorgen.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-2",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nProgrammänderungen / Rücktrittsbedingungen durch die Bergpuls Hochtourenkurs KG",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Wird die erforderliche Mindestteilnehmerzahl für eine Veranstaltung nicht erreicht, behalten wir uns das Recht vor, vom Vertrag, ohne dass ein Anspruch auf Schadensersatz entsteht, zurückzutreten. Selbiges gilt für einen Ausfall des jeweils eingeteilten Guides.\nWird die Mindestteilnehmerzahl nicht erreicht, versuchen wir mit Ihrer Zustimmung, die Veranstaltung mit einem Kleingruppenzuschlag durchzuführen. Über die dann entstehende Preisänderung informieren wir Sie natürlich.\nUnsere Veranstaltungen finden in der freien Natur statt. Die Bergpuls Hochtourenkurs KG kann auf Grund von Schlechtwetter, ungünstige Bedingungen und unvorhersehbaren Gründen die Veranstaltungen und/oder den Veranstaltungsort ändern oder ganz absagen.\n",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Voraussetzungen",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Der Kunde muss die, in der Veranstaltung angegebenen Voraussetzungen erfüllen. Ist dies nicht der Fall ist der Bergführer berechtigt, Ihn ganz oder teilweise vom Programm auszuschließen. In diesem Fall besteht kein Anspruch auf Rückvergütung.\nDer Kunde ist verpflichtet, den Anweisungen von der Bergpuls Hochtourenkurs KG beigestellten Fachpersonals Folge zu leisten. Kunden, die den Anweisungen nicht Folge leisten oder durch ihr Verhalten die Sicherheit gefährden, können vom Bergführer von der weiteren Teilnahme an der Veranstaltung ausgeschlossen werden. Eine Rückvergütung steht in diesem Fall nicht zu. Allfällige Zusatzkosten gehen zu Lasten des Kunden.\nFür den Zustand und die Wartung etwaiger selbst mitgebrachter Ausrüstung sowie den eigenen Gesundheitszustand ist jeder Gast eigenverantwortlich.\nDer Bergführer behält sich das Recht vor die Führung von Personen abzulehnen, die mangelhaft ausgerüstet sind.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nHaftung",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Der Bergführer kann keine absolute Sicherheit vor den objektiven Gefahren im Gebirge garantieren. Der Kunde nimmt das naturgegebene Restrisiko (wie z.B. Absturzgefahr, Höhenkrankheit, Kälteschäden, Lawinengefahr, Spaltensturz, Steinschlag) des Bergsteigens in Kauf, welches trotz sorgfältiger und umsichtiger Führung verbleibt. Durch die Buchung anerkennt der Kunde diese Gefahren und verzichtet auf jegliche Geltendmachung von Schadenersatz und ähnlichen Ansprüchen gegenüber der Bergpuls Hochtourenkurs KG.\nDer Veranstalter haftet nicht für Nachteile und Schädigungen irgendwelcher Art, wenn diese ohne Verschulden des Veranstalters oder eines Fachpersonals des Veranstalters verursacht worden sind. Für Eigenmächtigkeiten der Teilnehmer und Nichtbefolgung der Anweisungen übernimmt der Veranstalter keine Haftung!",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nLeihmaterial",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Verlust oder Beschädigungen des Leihmaterials, die über die normale Abnützung hinaus gehen, werden vom Veranstalter in Rechnung gestellt. Unser Leihmaterial wird laufend gewartet und auf die einwandfreie Funktion überprüft. Für Unfälle aufgrund von nicht erkennbaren Mängeln am Material kann der Veranstalter nicht haftbar gemacht werden.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nBildmaterial",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Wir sind berechtigt, während den Veranstaltungen entstandenes Bildmaterial für jegliche Werbezwecke unserer Bergpuls Hochtourenkurs KG zu verwenden. Der Kunde erklärt sich damit einverstanden und überträgt uns das Recht, dass wir dieses Bildmaterial kostenlos und ohne jegliche Art von Ansprüchen in diesem Zusammenhang und zu diesem Zwecke verwenden dürfen.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nVerlinkte Webseiten",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Die Bergpuls Hochtourenkurs KG übernimmt keine Haftung über den Inhalt externer, verlinkter Webseiten. Für Inhalte sind ausschließlich die jeweiligen Webseitenbetreiber verantwortlich.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nGerichtsstand und anwendbares Recht",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Der Gerichtsstand ist Liezen. Es wird österreichisches Recht vereinbart, sodass der Vertrag per Rechtswahl österreichischem Recht unterliegt.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "DZ9O50xrzp87c6vaq45RA",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T10:09:53.015Z",
+        "updatedAt": "2022-02-21T10:10:59.003Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "FAQ",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Muss ich die Unterkunft selbst reservieren?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Wir haben zu den angegebenen Kursterminen bei den Hütten bereits vorreserviert. Die Übernachtungen müssen jedoch vor Ort selbst bezahlt werden.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nWie kann ich auf der Hütte bezahlen?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Auf der Hütte kann man in bar oder mit Bankomatkarte bezahlen.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nGibt es auch Zimmer bei den Hütten?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Es gibt Zimmer und Lager. Wir haben versucht für alle Teilnehmer Zimmer zu reservieren.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nGibt es einen Materialtransport zur Hütte?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Leider Nein. Die benötigte Ausrüstung muss von jedem Teilnehmer selbst zur Hütte transportiert werden.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nGibt es W-Lan auf der Hütte?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Es gibt keinen Internetzugang.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-2",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nZur Ausrüstungsliste:",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nBenötige ich wirklich einen Biwaksack?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Ein Biwaksack gehört zur Grundausstattung (wie Erste Hilfe Päckchen, Stirnlampe, usw.) in jeden Rucksack. Wir empfehlen paarweise einen 2 Personen Biwaksack.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nWelche Schuhe benötige ich?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Bergschuhe (Kategorie B, C, D) mit stabilem Schaft, feste und torsionssteife Sohle, evtl. Gummirand und gute Stützfunktion. Idealerweise bedingt steigeisenfeste bzw. steigeisenfeste Bergschuhe.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nGibt es Leihausrüstung?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Wir haben modernste Leihausrüstung im Verleih. Die Leihausrüstung ist auf der Ausrüstungsliste gekennzeichnet.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nWas kostet diese Leihausrüstung?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Die angegebene Leihausrüstung ist kostenlos! Beschädigungen oder Verluste müssen jedoch verrechnet werden.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nWas passiert bei Schlechtwetter?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Sollte die Wetterprognose so schlecht sein, dass ein vernünftiger Kursablauf nicht möglich ist, werden wir den Kurs absagen und versuchen einen alternativen Termin für dich zu finden. Hierbei fallen seitens der Alpinschule keine Kosten an.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4wQsV6q92hGaS7DDzGunGT"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "y4tvOvDgSerTNxr1PUbZw",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T10:09:22.009Z",
+        "updatedAt": "2022-02-21T10:09:37.316Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Exkludierte Leistungen",
+        "content": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Anfahrtskosten",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Maut Glockner Hochalpenstraße",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "3x Hüttenübernachtung mit Halbpension: ca. € 60,-/Nacht (für AV Mitglieder)",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Getränke und Zwischenmahlzeiten",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Evtl. Bergekosten- & Unfallversicherung (wird empfohlen, z.B. Mitgliedschaft bei Alpenverein: Hier geht´s zur Mitgliedschaft)",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                }
+              ],
+              "nodeType": "unordered-list"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "35ruSNJJmeoGZDPZ7iQcjk"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "4zSqfeqd1RWkoydxTKj6zK",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T10:08:30.223Z",
+        "updatedAt": "2022-02-21T10:09:15.549Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Inkludierte Leistungen",
+        "content": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Ausbildung durch staatlich geprüften Berg- und Skiführer",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Leihausrüstung von Salewa ",
+                          "nodeType": "text"
+                        },
+                        {
+                          "data": {
+                            "uri": "https://www.hochtourenkurs.at/gear_advanced.pdf"
+                          },
+                          "content": [
+                            {
+                              "data": {},
+                              "marks": [],
+                              "value": "Download Ausrüstungsliste",
+                              "nodeType": "text"
+                            }
+                          ],
+                          "nodeType": "hyperlink"
+                        },
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Hochtourenkurs – Skriptum (PDF)",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Reservierung der Unterkunft im Vorfeld",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Alle Kosten des Bergführers",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                }
+              ],
+              "nodeType": "unordered-list"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1tOhHLvOsxLyJn8i5zRBNP"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "6B1gjqqetIJqjmHqEiNPrD",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T10:07:46.817Z",
+        "updatedAt": "2022-02-21T10:08:07.809Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Kursziele",
+        "content": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Verbesserung und Festigung deiner Hochtourenfertigkeiten im Fels, Firn und Eis",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Selbstständige Tourenplanung",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Sichere Durchführung von mittelschweren Hochtouren im Fels und Eis",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Ökonomische Routenwahl",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                }
+              ],
+              "nodeType": "unordered-list"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2gbgJ90tNc80TtIWynXdMX"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "4t32oPHFG9c920q6qO50yf",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T09:52:55.268Z",
+        "updatedAt": "2022-02-21T09:53:12.191Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Kursinhalte",
+        "content": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Optimierung der Steigeisen- und Pickeltechnik",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Seil- und Sicherungstechniken in Fels, Firn und Eis",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Ökonomische, den Verhältnissen und der Seilschaft angepasste Tourenplanung",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Vertiefung der Orientierung mit Karte und Kompass",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Gletscherkunde",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Selbst- und Kameradenrettung aus der Gletscherspalte (Spaltenbergung)",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Tourenplanung",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Alpine Gefahren und Verhalten bei Unfällen",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                }
+              ],
+              "nodeType": "unordered-list"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2wpBkGDhnt23eUujppd4L1"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "42O2lH89pTIuRsKpQveSNt",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T09:52:12.614Z",
+        "updatedAt": "2022-02-21T09:52:38.640Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Termine",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Der Hochtourenkurs Advanced kann für Gruppen von 4 Teilnehmern auf Anfrage gebucht werden. Einfach ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "hyperlink",
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "hier",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ],
+                  "data": {
+                    "uri": "https://www.bergpuls.at/angebote/hochtourenkurs-gletscherkurs-aufbaumodul-advanced/#buchen"
+                  }
+                },
+                {
+                  "nodeType": "text",
+                  "value": " eine Anfrage mit dem Wunschtermin abschicken!",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7BA8Z3aMWISCkbXdNTQpJv"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "1ZWviFx3XJA0GpcW26Ryx5",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T09:05:18.889Z",
+        "updatedAt": "2022-02-21T09:51:54.013Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Info",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "unordered-list",
+              "content": [
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Preis pro Person: € 450",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Dauer: 4 Tage",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Mindestteilnehmerzahl: 4",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Gruppengröße: 4",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "59etdl0hVV55kE0OyL2yUx"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "6aCK4WAjZ6DFtgvFZkn072",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T09:06:11.986Z",
+        "updatedAt": "2022-02-21T09:11:33.188Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Ort",
+        "content": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Treffpunkt",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "heading-3"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {
+                    "uri": "https://goo.gl/maps/8frFHZLEuW82"
+                  },
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "Alpincenter Glocknerhaus ",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "hyperlink"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Dachsteinstraße 66, 8972 Ramsau am Dachstein Österreich",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Unterkunft",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "heading-3"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {
+                    "uri": "http://www.oberwalderhuette.at/"
+                  },
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "Hochalpincenter Oberwalderhuette",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "hyperlink"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3EtnW1NiUfGZrGhIgiD619"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "7zNS48LPfGLCkwzfm7cgfU",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T09:10:44.446Z",
+        "updatedAt": "2022-02-21T09:10:57.966Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Programm",
+        "content": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Am 1.Tag treffen wir uns um 10:00 Uhr beim Glocknerhaus auf der Großglockner Hochalpenstrasse.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Nach der Ausrüstungskontrolle bzw. Ausgabe von Leihmaterial steigen wir über den Gamsgrubenweg zur gemütlichen Oberwalderhütte auf, wo wir unsere Hochtourenkenntnisse auffrischen (z.B.: Seiltechniken, Spaltenbergung, Kartenkunde, usw.) und unseren nächsten Tag planen werden.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Aufstiegszeit: ca. 2 1/2 Std. ↑ 550 Hm",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Je nach gemeinsamer Tourenplanung werden wir die nächsten Tage die umliegenden 3000er (z.B.: Johannisberg, Hoher Riffl, Hohe Dock-Bärenkopfrunde) besteigen. Während den Touren werden wir uns mit dem Thema Orientierung und ökonomisches bzw. richtiges Verhalten auf Tour beschäftigen. Wir werden spezifische, situationsangepasste Techniken und Taktiken erlernen, damit du in jeder Situation weißt was zu tun ist.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "value": "Hinweis",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": ": Wir werden unseren Kursinhalt stark nach den Vorkenntnissen, Können und Wünschen jedes Teilnehmers anpassen, um einen optimalen Lernerfolg zu erzielen.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2Ybmsda1OogQnxuGi4NQ0O"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "fUptXlUyU9xDTibacBXF9",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T09:04:23.420Z",
+        "updatedAt": "2022-02-21T09:05:01.098Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Anforderungen",
+        "content": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Kondition",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "heading-3"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Aufstiege bis zu 1000 Höhenmeter und 5 Std. / Tag oder einer Gesamtgehzeit von bis zu 10 Std. / Tag.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "\nTechnik",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "heading-3"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Du bist trittsicher und schwindelfrei in Eis, Firn und Fels. Du hast bereits einen Hochtourenkurs Basic oder eine ähnliche Ausbildung abgeschlossen bzw. Hochtourenerfahrung.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "52NJFsNCQ2cwqaeB2qYelN"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "6XvqXqONSIiJDw8ScZYIaj",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-21T09:04:03.614Z",
+        "updatedAt": "2022-02-21T09:04:21.149Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Kurs Advanced",
+        "content": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Der Hochtourenkurs ADVANCED am Großglockner ist der ideale \nAuffrischungs- und Aufbaukurs für Fortgeschrittene. Hierbei werden all \ndeine Hochtourenfertigkeiten im Fels und Eis gefestigt, verbessert und \nvor allem intensiviert.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Die Oberwalderhütte ist umringt vom Gletscher mit einem traumhaften Blick auf den\nGroßglockner. Auf Grund ihrer idealen Lage ist die Hütte perfekt für unseren Aufbaukurs.\nMit den richtigen Tipps und Tricks von deinem Bergführer bekommst du den nötigen Feinschliff\ndamit du selbstständig, sicher und ökonomisch auf Hochtouren unterwegs bist.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1700QLZGUlXPJmGMcaS550"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "4eetxiVO2zshe5yiS9szbD",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-11T09:12:29.487Z",
+        "updatedAt": "2022-02-21T09:03:05.641Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Ort",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Treffpunkt",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "hyperlink",
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "Berghotel Türlwandhütte",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ],
+                  "data": {
+                    "uri": "https://goo.gl/maps/8TZZHSgomX32"
+                  }
+                },
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Dachsteinstraße 66, 8972\nRamsau am Dachstein Österreich",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Unterkunft",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "hyperlink",
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "Simonyhütte Dachstein Basecamp",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ],
+                  "data": {
+                    "uri": "https://www.simonyhuette.com/home.html"
+                  }
+                },
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3EtnW1NiUfGZrGhIgiD619"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "2oFb2pdz8e7NmOFKd6RWHP",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-05T16:40:31.777Z",
+        "updatedAt": "2022-02-21T09:02:04.841Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Anforderungen",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Kondition",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Aufstiege bis zu 1000 Höhenmeter und 5 Std. / Tag oder einer Gesamtgehzeit von bis zu 10 Std. / Tag.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Technik",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Keine alpinen Vorkenntnisse erforderlich. Die Veranstaltung kann von \njedem durchschnittlich konstituierten, trittsicheren Bergwanderer \nbesucht werden.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "52NJFsNCQ2cwqaeB2qYelN"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "5Wiyh21lHmdD5hQ9FcT2F7",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-20T18:56:57.867Z",
+        "updatedAt": "2022-02-20T21:14:51.276Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "FAQ",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Muss ich die Unterkunft selbst reservieren?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Wir haben zu den angegebenen Kursterminen bei der Simonyhütte bereits vorreserviert. Die Übernachtungen müssen jedoch vor Ort selbst bezahlt werden.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nWie kann ich auf der Hütte bezahlen?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Auf der Hütte kann man in bar oder mit Bankomatkarte bezahlen.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nGibt es auch Zimmer bei den Hütten?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Es gibt Zimmer und Lager. Wir haben versucht für alle Teilnehmer Zimmer zu reservieren.\n",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Gibt es einen Materialtransport zur Hütte?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Leider Nein. Die benötigte Ausrüstung muss von jedem Teilnehmer selbst zur Hütte transportiert werden.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nGibt es W-Lan auf der Hütte?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Kein freier W-Lan Zugang möglich. Empfang für Mobiltelefone ist jedoch vorhanden.\n",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Wieviel Jause für unterwegs muss ich mitbringen?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Wir empfehlen Müsliriegel und Nüsse. Schokolade kann man bei der Simonyhütte kaufen. Weiters besteht die Möglichkeit, sich kostenlos eine Jause für den Tag vom Frühstücksbuffet mitzunehmen.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-2",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nZur Ausrüstungsliste:",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nBenötige ich wirklich einen Biwaksack?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Ein Biwaksack gehört zur Grundausstattung (wie Erste Hilfe Päckchen, Stirnlampe, usw.) in jeden Rucksack. Wir empfehlen paarweise einen 2 Personen Biwaksack.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nWelche Schuhe benötige ich?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Bergschuhe (Kategorie B, C, D) mit stabilem Schaft, feste und torsionssteife Sohle, evtl. Gummirand und gute Stützfunktion. Idealerweise bedingt steigeisenfeste bzw. steigeisenfeste Bergschuhe.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nGibt es Leihausrüstung?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Wir haben modernste Leihausrüstung im Verleih. Die Leihausrüstung ist auf der Ausrüstungsliste gekennzeichnet.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nWas kostet diese Leihausrüstung?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Die angegebene Leihausrüstung ist kostenlos! Beschädigungen oder Verluste müssen jedoch verrechnet werden.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "heading-3",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "\nWas passiert bei Schlechtwetter?",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Sollte die Wetterprognose so schlecht sein, dass ein vernünftiger Kursablauf nicht möglich ist, werden wir den Hochtourenkurs absagen und versuchen einen alternativen Termin für dich zu finden. Hierbei fallen seitens der Alpinschule keine Kosten an.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4wQsV6q92hGaS7DDzGunGT"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "Kjk3T6eLJZ3ImMHEzDYXi",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "basicProduct"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-11T11:07:56.392Z",
+        "updatedAt": "2022-02-20T20:43:23.982Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Termine",
+        "icon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7BA8Z3aMWISCkbXdNTQpJv"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "2XWYDCVHLDLAH5wZ5qJAfY",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-20T18:55:37.665Z",
+        "updatedAt": "2022-02-20T18:55:59.787Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Exkludierte Leistungen",
+        "content": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Anfahrtskosten",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Berg- und Talfahrt Dachstein Gletscherbahn: € 41.50,- (Stand 2021)",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "4x Hüttenübernachtung im Doppelzimmer mit Halbpension: € 64.50,-/Nacht für AV Mitglieder (Stand 2021)",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Getränke und Zwischenmahlzeiten",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Evtl. Bergekosten- & Unfallversicherung",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                }
+              ],
+              "nodeType": "unordered-list"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "35ruSNJJmeoGZDPZ7iQcjk"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "6RizSP4lGahN9pCvuq9FxB",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-20T18:54:15.682Z",
+        "updatedAt": "2022-02-20T18:55:34.283Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Inkludierte Leistungen",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "unordered-list",
+              "content": [
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Ausbildung durch staatlich geprüften Berg- und Skiführer",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Leihausrüstung von Salewa ",
+                          "marks": [],
+                          "data": {}
+                        },
+                        {
+                          "nodeType": "hyperlink",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Download Ausrüstungsliste",
+                              "marks": [],
+                              "data": {}
+                            }
+                          ],
+                          "data": {
+                            "uri": "https://www.hochtourenkurs.at/gear_basic.pdf"
+                          }
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": "",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Hochtourenkurs – Skriptum (PDF)",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Reservierung der Unterkunft im Vorfeld",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Alle Kosten des Bergführers",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1tOhHLvOsxLyJn8i5zRBNP"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "6olwbTtsPGROzTggoq2Kno",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-20T18:53:27.572Z",
+        "updatedAt": "2022-02-20T18:54:10.367Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Kursziele",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "unordered-list",
+              "content": [
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Selbstständige Planung und Durchführung von einfachen Hochtouren",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Beherrschen aller nötigen Seil- und Sicherungstechniken",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Realistische Selbsteinschätzung der eigenen Fähigkeiten um risikominimierend unterwegs zu sein",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Besteigung Hoher Dachstein (Wetterabhängig)",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2gbgJ90tNc80TtIWynXdMX"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "4L0EobREDUJmt0GFJLIOgv",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-20T18:52:37.762Z",
+        "updatedAt": "2022-02-20T18:53:10.717Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Kursinhalte",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "unordered-list",
+              "content": [
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Grundschule Steigeisen- und Pickeltechnik",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Trittschulung in verschiedenen Geländeformen",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Knotenkunde",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Seil- und Sicherungstechniken in Fels, Firn und Eis",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Aktives und passives Abseilen",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Bremsen von Stürzen im Schnee und Firn",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Selbst- und Kameradenrettung aus der Gletscherspalte (Spaltenbergung)",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Tourenplanung",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Orientierung mit Karte und Kompass",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Gletscherkunde & Wetterkunde Basics",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Alpine Gefahren und Verhalten bei Unfällen",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "list-item",
+                  "content": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Stärkung von Vertrauen und Teamfähigkeit\nErkennen der eigenen Leistungsfähigkeit",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2wpBkGDhnt23eUujppd4L1"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "3dsU50TcIcJXJg8BKL00CD",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-18T21:39:16.412Z",
+        "updatedAt": "2022-02-18T21:39:51.082Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Kursinhalte"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "3A5y5P3FJXe4lcYYVUUk8p",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "heroImage"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-16T09:06:45.707Z",
+        "updatedAt": "2022-02-16T09:08:55.951Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "desktop": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7feeiHOLNFqEQP5Q71H7tX"
+          }
+        },
+        "mobile": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6sQK2b0W0tVmpugpLR2vId"
+          }
+        },
+        "title": "Advanced 5"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "6MzJxXbpkgySXfsuBZCqzV",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "slideshow"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-10T19:48:11.885Z",
+        "updatedAt": "2022-02-16T09:06:51.077Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Hochtourenkurs Advanced",
+        "images": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "5aLMO6f7WaE9WFV4zrrt2f"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4kSTLV4GEStBoJzr2fxYzz"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "66cwLx0UBscfBzsC31EtUF"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6un2FZHLn8FVfUFuOrHgeW"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3A5y5P3FJXe4lcYYVUUk8p"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "6un2FZHLn8FVfUFuOrHgeW",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "heroImage"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-16T09:04:34.499Z",
+        "updatedAt": "2022-02-16T09:06:43.269Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "desktop": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2FeKovZocWfwb1qizgQvmI"
+          }
+        },
+        "mobile": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7xfjpFezYsGtAqKiEvdJY8"
+          }
+        },
+        "title": "Advanced 4"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "66cwLx0UBscfBzsC31EtUF",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "heroImage"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-16T09:01:32.253Z",
+        "updatedAt": "2022-02-16T09:04:07.898Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "desktop": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4gB1jxCxWhN8kGhPjAu2PI"
+          }
+        },
+        "mobile": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4dXw3dsP6TAXH8OMk5q4EW"
+          }
+        },
+        "title": "Advanced 3"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "4kSTLV4GEStBoJzr2fxYzz",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "heroImage"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-16T09:00:24.363Z",
+        "updatedAt": "2022-02-16T09:01:10.779Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "desktop": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3khtNXlPax18It9nfeTBkl"
+          }
+        },
+        "mobile": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2mL7nGrcTBtowwRqehDU8q"
+          }
+        },
+        "title": "Advanced 2"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "5aLMO6f7WaE9WFV4zrrt2f",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "heroImage"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-16T08:58:22.648Z",
+        "updatedAt": "2022-02-16T08:59:44.687Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "desktop": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1MLQlPo8G6leME5BGNsAVm"
+          }
+        },
+        "mobile": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7v15vtqc5vEh68CQyG2zlv"
+          }
+        },
+        "title": "Advanced 1"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "Hcgb6ZvrKjCwmPerd8DJE",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "heroImage"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-16T08:51:47.268Z",
+        "updatedAt": "2022-02-16T08:52:56.627Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "desktop": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1V53I2D50T7RtppOTMhdL7"
+          }
+        },
+        "mobile": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7iIWobTIErqGlM6rpXDo6A"
+          }
+        },
+        "title": "Basic 6"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "3XrDE5yEc6KK1jC4gnhokx",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "slideshow"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-01-31T18:29:08.910Z",
+        "updatedAt": "2022-02-16T08:51:52.607Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Hochtourenkurs Basic",
+        "images": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "qqRKitnYcEnufBOhlgxXs"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4GCKO7h1GcH9hWrHwbaSWi"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4mFP0AbVbyJNLO8cLGnsfX"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "7DSpT1WEaOcS14ERV6BKTs"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3y9nX11Xjqv4MGUuN1j7WW"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "Hcgb6ZvrKjCwmPerd8DJE"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "3y9nX11Xjqv4MGUuN1j7WW",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "heroImage"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-16T08:50:05.322Z",
+        "updatedAt": "2022-02-16T08:51:09.062Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "desktop": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5t3dUKRoJjzAZZQ4Lxe4mn"
+          }
+        },
+        "mobile": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3R7ymMqzTYb1UvGt8eeXG5"
+          }
+        },
+        "title": "Basic 5"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "7DSpT1WEaOcS14ERV6BKTs",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "heroImage"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-16T08:45:20.580Z",
+        "updatedAt": "2022-02-16T08:49:24.446Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "desktop": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4RBlgKWGnj0T8ac5sE2hyq"
+          }
+        },
+        "mobile": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3x9b4GvPv12o9hT5CREKkV"
+          }
+        },
+        "title": "Basic 4"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "4mFP0AbVbyJNLO8cLGnsfX",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "heroImage"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-16T08:41:25.695Z",
+        "updatedAt": "2022-02-16T08:44:10.249Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "desktop": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3TMuKdEsunNlJ8U5xnpTl"
+          }
+        },
+        "mobile": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5Fpu9zDsm0aAcNAFkH6uNT"
+          }
+        },
+        "title": "Basic 3"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "4GCKO7h1GcH9hWrHwbaSWi",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "heroImage"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-15T22:46:11.767Z",
+        "updatedAt": "2022-02-15T22:47:00.639Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "desktop": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4YS8Edp0ZDwYHCzGLYf2ZU"
+          }
+        },
+        "mobile": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "42GwaPNwLofdJF5fhGww0o"
+          }
+        },
+        "title": "Basic 2"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "qqRKitnYcEnufBOhlgxXs",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "heroImage"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-15T22:28:52.021Z",
+        "updatedAt": "2022-02-15T22:31:40.203Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "desktop": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1kfTdOPQjjQoD4A4IbS64h"
+          }
+        },
+        "mobile": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "5ClX5hfZGU0SLr9L14bQ3U"
+          }
+        },
+        "title": "Basic 1"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "583G5rLDHxTgIBwFLUOqMQ",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-11T10:48:47.602Z",
+        "updatedAt": "2022-02-11T11:41:07.437Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Info",
+        "content": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Preis pro Person: € 400",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Dauer: 5 Tage",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Mindestteilnehmerzahl: 5",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Gruppengröße: 5 - 6  ",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                }
+              ],
+              "nodeType": "unordered-list"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "59etdl0hVV55kE0OyL2yUx"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2fa7zcmjwi4b"
+          }
+        },
+        "type": "Entry",
+        "id": "6nDezB3YtiIoBWdSq7Q3e",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "block"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2022-02-11T10:49:57.387Z",
+        "updatedAt": "2022-02-11T11:40:58.420Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Programm",
+        "content": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Am 1.Tag treffen wir uns um 09:00 Uhr beim Berghotel Türlwandhütte, gleich\nneben der Dachstein Gletscherbahn (Ramsau/Dachstein).",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Nach dem Kennenlernen kontrollieren wir die Ausrüstung und geben dir das\nLeihmaterial. Danach beginnen wir schon mit der Knoten- und Materialkunde, bevor\nwir das erste Mal den Gletscher betreten.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "In dieser Woche werden dir bei einem abwechslungsreichen Kursbetrieb in Theorie\nund Praxis alle Kursinhalte näher gebracht. Als Highlight besteigen wir den\nHohen Dachstein mit seinen 2995m! (Wetterabhängig)",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Kursschluss am letzten Tag wird gegen 15:00 Uhr sein.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "titleIcon": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "2Ybmsda1OogQnxuGi4NQ0O"
+          }
+        }
+      }
+    }
+  ],
+  "errors": [
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "2dKoESgeK3DtQK5dWaMmMz"
+      }
+    },
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "37E8R6YF1R8L1KEnbM1QqB"
+      }
+    },
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "3crAJxoUJTUzrmVkeZY8jf"
+      }
+    },
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "3znbCXos5kEtxWlIpB5qoi"
+      }
+    },
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "4TTUi1JJTD7hLVrSRz2lMv"
+      }
+    },
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "4eyQoNtC81pyug3tjXYkrR"
+      }
+    },
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "50IZaf9Ug4ZrRZC7HOJ4oe"
+      }
+    },
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "52IwA3r0jADAlwm27vOjjw"
+      }
+    },
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "5UmZDPv1iRQJ9bqsngPXQW"
+      }
+    },
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "6IJhtUchVPfwGgPXLyRaoE"
+      }
+    },
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "6qCpmSexKVNjnq9OyJXlQo"
+      }
+    },
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "7aVfP95nc4o0LUYgwQvZ4u"
+      }
+    }
+  ],
+  "includes": {
+    "Asset": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "1700QLZGUlXPJmGMcaS550",
+          "revision": 0,
+          "createdAt": "2022-02-11T11:26:55.560Z",
+          "updatedAt": "2022-02-11T11:27:33.534Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Bergpuls Logo",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/1700QLZGUlXPJmGMcaS550/709175aed5c0fcaf862ae48925f6d88b/bergpuls.svg",
+            "details": {
+              "size": 428,
+              "image": {
+                "width": 253,
+                "height": 191
+              }
+            },
+            "fileName": "bergpuls.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Tag",
+                "id": "feather"
+              }
+            }
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "1CTGQmRiRMwsPHY3r4o9xu",
+          "revision": 0,
+          "createdAt": "2022-02-21T11:44:46.554Z",
+          "updatedAt": "2022-02-21T11:44:56.462Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "credit-card",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/1CTGQmRiRMwsPHY3r4o9xu/3b0792b6d5e76bb0a61c8cd563214800/credit-card.svg",
+            "details": {
+              "size": 329,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "credit-card.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "1MLQlPo8G6leME5BGNsAVm",
+          "revision": 0,
+          "createdAt": "2022-02-16T08:58:28.290Z",
+          "updatedAt": "2022-02-16T08:59:03.051Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Advanced 1 Desktop",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/1MLQlPo8G6leME5BGNsAVm/6845f97b530a0464572c91a62890118c/Hochtourenkurs_Advanced-3.jpg",
+            "details": {
+              "size": 954567,
+              "image": {
+                "width": 4000,
+                "height": 1250
+              }
+            },
+            "fileName": "Hochtourenkurs_Advanced-3.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "1V53I2D50T7RtppOTMhdL7",
+          "revision": 0,
+          "createdAt": "2022-02-16T08:51:50.077Z",
+          "updatedAt": "2022-02-16T08:57:06.334Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Basic 6 Desktop",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/1V53I2D50T7RtppOTMhdL7/51de9ce6a2901746e3723dcbc5e72b94/BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS18.jpg",
+            "details": {
+              "size": 360398,
+              "image": {
+                "width": 2121,
+                "height": 662
+              }
+            },
+            "fileName": "BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS18.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "1kfTdOPQjjQoD4A4IbS64h",
+          "revision": 0,
+          "createdAt": "2022-02-15T22:28:56.802Z",
+          "updatedAt": "2022-02-16T08:57:40.226Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Basic 1 Desktop",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/1kfTdOPQjjQoD4A4IbS64h/238564fba5ffd63613b66ef63c6c7bae/BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS9.jpg",
+            "details": {
+              "size": 1194100,
+              "image": {
+                "width": 4000,
+                "height": 1250
+              }
+            },
+            "fileName": "BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS9.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Tag",
+                "id": "feather"
+              }
+            }
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "1tOhHLvOsxLyJn8i5zRBNP",
+          "revision": 0,
+          "createdAt": "2022-02-20T18:54:21.797Z",
+          "updatedAt": "2022-02-20T18:54:43.019Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "check-square",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/1tOhHLvOsxLyJn8i5zRBNP/c8641557c74e2cfa08d65ee931b4adbd/check-square.svg",
+            "details": {
+              "size": 345,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "check-square.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "2FeKovZocWfwb1qizgQvmI",
+          "revision": 0,
+          "createdAt": "2022-02-16T09:04:50.314Z",
+          "updatedAt": "2022-02-16T09:05:21.549Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Advanced 4 Desktop",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/2FeKovZocWfwb1qizgQvmI/afe2ad05b10f242aa94598fae54e7666/Hochtourenkurs_Advanced-BERGPULS2.jpg",
+            "details": {
+              "size": 722023,
+              "image": {
+                "width": 4000,
+                "height": 1250
+              }
+            },
+            "fileName": "Hochtourenkurs_Advanced-BERGPULS2.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Tag",
+                "id": "feather"
+              }
+            }
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "2Ybmsda1OogQnxuGi4NQ0O",
+          "revision": 0,
+          "createdAt": "2022-02-11T11:33:14.264Z",
+          "updatedAt": "2022-02-11T11:33:25.882Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Clipboard",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/2Ybmsda1OogQnxuGi4NQ0O/8418acee67ab3c075f9a60ac129f2b65/clipboard.svg",
+            "details": {
+              "size": 371,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "clipboard.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Tag",
+                "id": "feather"
+              }
+            }
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "2gbgJ90tNc80TtIWynXdMX",
+          "revision": 0,
+          "createdAt": "2022-02-20T18:53:32.350Z",
+          "updatedAt": "2022-02-20T18:53:46.562Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "star",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/2gbgJ90tNc80TtIWynXdMX/c1207a7c32dbeb73a2878110852f45c6/star.svg",
+            "details": {
+              "size": 339,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "star.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "2mL7nGrcTBtowwRqehDU8q",
+          "revision": 0,
+          "createdAt": "2022-02-16T09:01:05.471Z",
+          "updatedAt": "2022-02-16T09:01:27.317Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Advanced 2 Mobile",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/2mL7nGrcTBtowwRqehDU8q/0b8cf58fd899520f705f4d9f071f8150/Hochtourenkurs_Advanced-4.jpg",
+            "details": {
+              "size": 484701,
+              "image": {
+                "width": 1414,
+                "height": 1414
+              }
+            },
+            "fileName": "Hochtourenkurs_Advanced-4.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Tag",
+                "id": "feather"
+              }
+            }
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "2wpBkGDhnt23eUujppd4L1",
+          "revision": 0,
+          "createdAt": "2022-02-11T11:42:37.069Z",
+          "updatedAt": "2022-02-11T11:43:01.108Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "List",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/2wpBkGDhnt23eUujppd4L1/0921eb7899979a331af8069d4ec25e4c/list.svg",
+            "details": {
+              "size": 482,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "list.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Tag",
+                "id": "feather"
+              }
+            }
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "35ruSNJJmeoGZDPZ7iQcjk",
+          "revision": 0,
+          "createdAt": "2022-02-20T18:55:54.353Z",
+          "updatedAt": "2022-02-20T18:56:49.248Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "x-square",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/35ruSNJJmeoGZDPZ7iQcjk/f8562cd36ad5dc1dd5ad41761510abb7/x-square.svg",
+            "details": {
+              "size": 368,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "x-square.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Tag",
+                "id": "feather"
+              }
+            }
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "3EtnW1NiUfGZrGhIgiD619",
+          "revision": 0,
+          "createdAt": "2022-02-11T11:32:13.081Z",
+          "updatedAt": "2022-02-11T11:32:30.492Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Map Pin",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/3EtnW1NiUfGZrGhIgiD619/9a7c55ee611936c03d1d3bfb3c883dd5/map-pin.svg",
+            "details": {
+              "size": 322,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "map-pin.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "3R7ymMqzTYb1UvGt8eeXG5",
+          "revision": 0,
+          "createdAt": "2022-02-16T08:51:03.509Z",
+          "updatedAt": "2022-02-16T08:57:13.550Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Basic 5 Mobile",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/3R7ymMqzTYb1UvGt8eeXG5/e016e232b640bc6136f28dda61bb2173/BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS13.jpg",
+            "details": {
+              "size": 1543081,
+              "image": {
+                "width": 2667,
+                "height": 2667
+              }
+            },
+            "fileName": "BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS13.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "3TMuKdEsunNlJ8U5xnpTl",
+          "revision": 0,
+          "createdAt": "2022-02-16T08:41:35.049Z",
+          "updatedAt": "2022-02-16T08:56:33.472Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Basic 3 Desktop",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/3TMuKdEsunNlJ8U5xnpTl/329cb62ba4460c8591c7779e19a29afb/BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS2.jpg",
+            "details": {
+              "size": 901327,
+              "image": {
+                "width": 3872,
+                "height": 1210
+              }
+            },
+            "fileName": "BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS2.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "3khtNXlPax18It9nfeTBkl",
+          "revision": 0,
+          "createdAt": "2022-02-16T09:00:28.871Z",
+          "updatedAt": "2022-02-16T09:00:58.162Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Advanced 2 Desktop",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/3khtNXlPax18It9nfeTBkl/21b08fae9d8f00495392336aa0310052/Hochtourenkurs_Advanced-4.jpg",
+            "details": {
+              "size": 383926,
+              "image": {
+                "width": 2121,
+                "height": 662
+              }
+            },
+            "fileName": "Hochtourenkurs_Advanced-4.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "3x9b4GvPv12o9hT5CREKkV",
+          "revision": 0,
+          "createdAt": "2022-02-16T08:49:19.133Z",
+          "updatedAt": "2022-02-16T08:57:20.293Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Basic 4 Mobile",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/3x9b4GvPv12o9hT5CREKkV/a1bf11d576298123f6255de47140bd0e/BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS4.jpg",
+            "details": {
+              "size": 1385578,
+              "image": {
+                "width": 2581,
+                "height": 2581
+              }
+            },
+            "fileName": "BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS4.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "42GwaPNwLofdJF5fhGww0o",
+          "revision": 0,
+          "createdAt": "2022-02-15T22:46:55.330Z",
+          "updatedAt": "2022-02-16T08:54:20.014Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Basic 2 Mobile",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/42GwaPNwLofdJF5fhGww0o/eb1d4e969c8828d934d997ef66b47449/BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS1.jpg",
+            "details": {
+              "size": 1055318,
+              "image": {
+                "width": 2667,
+                "height": 2667
+              }
+            },
+            "fileName": "BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS1.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "4RBlgKWGnj0T8ac5sE2hyq",
+          "revision": 0,
+          "createdAt": "2022-02-16T08:45:29.889Z",
+          "updatedAt": "2022-02-16T08:57:33.514Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Basic 4 Desktop",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/4RBlgKWGnj0T8ac5sE2hyq/33a8d9d8714e5d0cd37e80614c5a94a6/BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS4.jpg",
+            "details": {
+              "size": 1233619,
+              "image": {
+                "width": 3872,
+                "height": 1210
+              }
+            },
+            "fileName": "BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS4.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "4YS8Edp0ZDwYHCzGLYf2ZU",
+          "revision": 0,
+          "createdAt": "2022-02-15T22:46:18.469Z",
+          "updatedAt": "2022-02-16T08:56:25.203Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Basic 2 Desktop",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/4YS8Edp0ZDwYHCzGLYf2ZU/76b1d5d8354bd54eb99153554e5e11e6/BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS1.jpg",
+            "details": {
+              "size": 686827,
+              "image": {
+                "width": 4000,
+                "height": 1250
+              }
+            },
+            "fileName": "BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS1.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "4dXw3dsP6TAXH8OMk5q4EW",
+          "revision": 0,
+          "createdAt": "2022-02-16T09:04:02.398Z",
+          "updatedAt": "2022-02-16T09:04:24.471Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Advanced 3 Mobile",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/4dXw3dsP6TAXH8OMk5q4EW/77f65476c88f6a097c6d3e15cf8847cf/Hochtourenkurs_Advanced-BERGPULS1.jpg",
+            "details": {
+              "size": 860080,
+              "image": {
+                "width": 2667,
+                "height": 2667
+              }
+            },
+            "fileName": "Hochtourenkurs_Advanced-BERGPULS1.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "4gB1jxCxWhN8kGhPjAu2PI",
+          "revision": 0,
+          "createdAt": "2022-02-16T09:03:22.908Z",
+          "updatedAt": "2022-02-16T09:03:58.525Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Advanced 3 Desktop",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/4gB1jxCxWhN8kGhPjAu2PI/359ab072eba02ec1004ec525e458556e/Hochtourenkurs_Advanced-BERGPULS1.jpg",
+            "details": {
+              "size": 677745,
+              "image": {
+                "width": 4000,
+                "height": 1250
+              }
+            },
+            "fileName": "Hochtourenkurs_Advanced-BERGPULS1.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Tag",
+                "id": "feather"
+              }
+            }
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "4wQsV6q92hGaS7DDzGunGT",
+          "revision": 0,
+          "createdAt": "2022-02-20T18:57:01.831Z",
+          "updatedAt": "2022-02-20T18:57:44.074Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "help-circle",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/4wQsV6q92hGaS7DDzGunGT/17bd566b6c64267491332cc11540616f/help-circle.svg",
+            "details": {
+              "size": 365,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "help-circle.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Tag",
+                "id": "feather"
+              }
+            }
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "52NJFsNCQ2cwqaeB2qYelN",
+          "revision": 0,
+          "createdAt": "2022-02-06T12:28:36.277Z",
+          "updatedAt": "2022-02-06T12:33:05.654Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Trending Up Icon",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/52NJFsNCQ2cwqaeB2qYelN/ba47e6538745e70bdd9f17b41f938fa4/trending-up.svg",
+            "details": {
+              "size": 328,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "trending-up.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Tag",
+                "id": "feather"
+              }
+            }
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "59etdl0hVV55kE0OyL2yUx",
+          "revision": 0,
+          "createdAt": "2022-02-11T11:32:47.654Z",
+          "updatedAt": "2022-02-11T11:33:03.404Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Info",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/59etdl0hVV55kE0OyL2yUx/e6a0074c08d0a58f7b36d2b5b1307c8e/info.svg",
+            "details": {
+              "size": 347,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "info.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "5ClX5hfZGU0SLr9L14bQ3U",
+          "revision": 0,
+          "createdAt": "2022-02-15T22:29:56.393Z",
+          "updatedAt": "2022-02-16T08:58:04.972Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Basic 1 Mobile",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/5ClX5hfZGU0SLr9L14bQ3U/520340f19ab9afbdce4617c4003b3ca7/BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS9.jpg",
+            "details": {
+              "size": 1752393,
+              "image": {
+                "width": 2667,
+                "height": 2667
+              }
+            },
+            "fileName": "BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS9.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "5Fpu9zDsm0aAcNAFkH6uNT",
+          "revision": 0,
+          "createdAt": "2022-02-16T08:44:04.945Z",
+          "updatedAt": "2022-02-16T08:56:48.919Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Basic 3 Mobile",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/5Fpu9zDsm0aAcNAFkH6uNT/f2a6ed15d2735e0917959abed240865b/BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS2.jpg",
+            "details": {
+              "size": 1240909,
+              "image": {
+                "width": 2581,
+                "height": 2581
+              }
+            },
+            "fileName": "BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS2.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "5t3dUKRoJjzAZZQ4Lxe4mn",
+          "revision": 0,
+          "createdAt": "2022-02-16T08:50:19.490Z",
+          "updatedAt": "2022-02-16T08:57:27.217Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": " Basic 5 Desktop",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/5t3dUKRoJjzAZZQ4Lxe4mn/34d14a16605d5df70b24e17630c0f888/BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS13.jpg",
+            "details": {
+              "size": 1135294,
+              "image": {
+                "width": 4000,
+                "height": 1250
+              }
+            },
+            "fileName": "BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS13.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "6sQK2b0W0tVmpugpLR2vId",
+          "revision": 0,
+          "createdAt": "2022-02-16T09:08:17.793Z",
+          "updatedAt": "2022-02-16T09:08:43.448Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Advanced 5 Mobile",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/6sQK2b0W0tVmpugpLR2vId/9752890891b5daacc1a9c16c97d51779/Hochtourenkurs_Advanced-BERGPULS6.jpg",
+            "details": {
+              "size": 2005308,
+              "image": {
+                "width": 2667,
+                "height": 2667
+              }
+            },
+            "fileName": "Hochtourenkurs_Advanced-BERGPULS6.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Tag",
+                "id": "feather"
+              }
+            }
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "7BA8Z3aMWISCkbXdNTQpJv",
+          "revision": 0,
+          "createdAt": "2022-02-20T20:43:18.689Z",
+          "updatedAt": "2022-02-20T20:43:27.661Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "calendar",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/7BA8Z3aMWISCkbXdNTQpJv/77af5851dfefbd8af19d05249f2c94b4/calendar.svg",
+            "details": {
+              "size": 410,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "calendar.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "7feeiHOLNFqEQP5Q71H7tX",
+          "revision": 0,
+          "createdAt": "2022-02-16T09:06:48.242Z",
+          "updatedAt": "2022-02-16T09:07:25.375Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Advanced 5 Desktop",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/7feeiHOLNFqEQP5Q71H7tX/f01ab41da79a63806beb07cee6121b07/Hochtourenkurs_Advanced-BERGPULS6.jpg",
+            "details": {
+              "size": 1484229,
+              "image": {
+                "width": 4000,
+                "height": 1250
+              }
+            },
+            "fileName": "Hochtourenkurs_Advanced-BERGPULS6.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "7iIWobTIErqGlM6rpXDo6A",
+          "revision": 0,
+          "createdAt": "2022-02-16T08:52:22.799Z",
+          "updatedAt": "2022-02-16T08:56:56.650Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Basic 6 Mobile",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/7iIWobTIErqGlM6rpXDo6A/9e55c105efc24faa70914e37a57048b8/BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS18.jpg",
+            "details": {
+              "size": 434342,
+              "image": {
+                "width": 1414,
+                "height": 1414
+              }
+            },
+            "fileName": "BASIC-HOCHTOURENKURS-GLETSCHERKURS-BERGPULS18.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "7v15vtqc5vEh68CQyG2zlv",
+          "revision": 0,
+          "createdAt": "2022-02-16T08:59:39.366Z",
+          "updatedAt": "2022-02-16T09:00:09.479Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Advanced 1 Mobile",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/7v15vtqc5vEh68CQyG2zlv/63f248671a416079712a98538293447e/Hochtourenkurs_Advanced-3.jpg",
+            "details": {
+              "size": 1117313,
+              "image": {
+                "width": 2667,
+                "height": 2667
+              }
+            },
+            "fileName": "Hochtourenkurs_Advanced-3.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2fa7zcmjwi4b"
+            }
+          },
+          "type": "Asset",
+          "id": "7xfjpFezYsGtAqKiEvdJY8",
+          "revision": 0,
+          "createdAt": "2022-02-16T09:06:07.113Z",
+          "updatedAt": "2022-02-16T09:06:30.300Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Advanced 4 Mobile",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/2fa7zcmjwi4b/7xfjpFezYsGtAqKiEvdJY8/5b41d3ea7aa208864804451362ea2cb4/Hochtourenkurs_Advanced-BERGPULS2.jpg",
+            "details": {
+              "size": 1043388,
+              "image": {
+                "width": 2667,
+                "height": 2667
+              }
+            },
+            "fileName": "Hochtourenkurs_Advanced-BERGPULS2.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -28,6 +28,14 @@
             golangci-lint
             go-outline
             gopkgs
+
+            esbuild
+            nodePackages.prettier
+            nodePackages.sass
+            nodejs-slim
+            yarn
+            caddy
+            miniserve
           ];
         };
       }

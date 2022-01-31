@@ -1,0 +1,9 @@
+[build]
+  publish = "public/"
+  command = "./build"
+
+[[plugins]]
+  package = "@netlify/plugin-lighthouse"
+
+[[plugins]]
+  package = "@netlify/plugin-sitemap"

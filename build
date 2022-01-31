@@ -1,0 +1,8 @@
+#!/bin/sh
+esbuild --bundle index.js --outdir=public --minify --sourcemap --metafile=meta.json
+sass public/styles.css \
+  --style=compressed \
+  --indented \
+  --load-path=node_modules/swiper \
+  --stdin <styles.sass
+go run main.go

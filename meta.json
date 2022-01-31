@@ -1,0 +1,1437 @@
+{
+  "inputs": {
+    "node_modules/ssr-window/ssr-window.esm.js": {
+      "bytes": 3185,
+      "imports": []
+    },
+    "node_modules/dom7/dom7.esm.js": {
+      "bytes": 35214,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/shared/dom.js": {
+      "bytes": 893,
+      "imports": [
+        {
+          "path": "node_modules/dom7/dom7.esm.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/shared/utils.js": {
+      "bytes": 5945,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/shared/get-support.js": {
+      "bytes": 1020,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/shared/get-device.js": {
+      "bytes": 1655,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/get-support.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/shared/get-browser.js": {
+      "bytes": 550,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/modules/resize/resize.js": {
+      "bytes": 1927,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/modules/observer/observer.js": {
+      "bytes": 2125,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/events-emitter.js": {
+      "bytes": 3197,
+      "imports": []
+    },
+    "node_modules/swiper/core/update/updateSize.js": {
+      "bytes": 977,
+      "imports": []
+    },
+    "node_modules/swiper/core/update/updateSlides.js": {
+      "bytes": 10514,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/update/updateAutoHeight.js": {
+      "bytes": 1525,
+      "imports": []
+    },
+    "node_modules/swiper/core/update/updateSlidesOffset.js": {
+      "bytes": 257,
+      "imports": []
+    },
+    "node_modules/swiper/core/update/updateSlidesProgress.js": {
+      "bytes": 1850,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/update/updateProgress.js": {
+      "bytes": 1226,
+      "imports": []
+    },
+    "node_modules/swiper/core/update/updateSlidesClasses.js": {
+      "bytes": 2725,
+      "imports": []
+    },
+    "node_modules/swiper/core/update/updateActiveIndex.js": {
+      "bytes": 2026,
+      "imports": []
+    },
+    "node_modules/swiper/core/update/updateClickedSlide.js": {
+      "bytes": 964,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/update/index.js": {
+      "bytes": 684,
+      "imports": [
+        {
+          "path": "node_modules/swiper/core/update/updateSize.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/update/updateSlides.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/update/updateAutoHeight.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/update/updateSlidesOffset.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/update/updateSlidesProgress.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/update/updateProgress.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/update/updateSlidesClasses.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/update/updateActiveIndex.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/update/updateClickedSlide.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/translate/getTranslate.js": {
+      "bytes": 564,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/translate/setTranslate.js": {
+      "bytes": 1163,
+      "imports": []
+    },
+    "node_modules/swiper/core/translate/minTranslate.js": {
+      "bytes": 70,
+      "imports": []
+    },
+    "node_modules/swiper/core/translate/maxTranslate.js": {
+      "bytes": 93,
+      "imports": []
+    },
+    "node_modules/swiper/core/translate/translateTo.js": {
+      "bytes": 2863,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/translate/index.js": {
+      "bytes": 325,
+      "imports": [
+        {
+          "path": "node_modules/swiper/core/translate/getTranslate.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/translate/setTranslate.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/translate/minTranslate.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/translate/maxTranslate.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/translate/translateTo.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/transition/setTransition.js": {
+      "bytes": 226,
+      "imports": []
+    },
+    "node_modules/swiper/core/transition/transitionEmit.js": {
+      "bytes": 732,
+      "imports": []
+    },
+    "node_modules/swiper/core/transition/transitionStart.js": {
+      "bytes": 421,
+      "imports": [
+        {
+          "path": "node_modules/swiper/core/transition/transitionEmit.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/transition/transitionEnd.js": {
+      "bytes": 408,
+      "imports": [
+        {
+          "path": "node_modules/swiper/core/transition/transitionEmit.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/transition/index.js": {
+      "bytes": 219,
+      "imports": [
+        {
+          "path": "node_modules/swiper/core/transition/setTransition.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/transition/transitionStart.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/transition/transitionEnd.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/slide/slideTo.js": {
+      "bytes": 5974,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/slide/slideToLoop.js": {
+      "bytes": 432,
+      "imports": []
+    },
+    "node_modules/swiper/core/slide/slideNext.js": {
+      "bytes": 1039,
+      "imports": []
+    },
+    "node_modules/swiper/core/slide/slidePrev.js": {
+      "bytes": 2114,
+      "imports": []
+    },
+    "node_modules/swiper/core/slide/slideReset.js": {
+      "bytes": 328,
+      "imports": []
+    },
+    "node_modules/swiper/core/slide/slideToClosest.js": {
+      "bytes": 1541,
+      "imports": []
+    },
+    "node_modules/swiper/core/slide/slideToClickedSlide.js": {
+      "bytes": 1455,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/slide/index.js": {
+      "bytes": 437,
+      "imports": [
+        {
+          "path": "node_modules/swiper/core/slide/slideTo.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/slide/slideToLoop.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/slide/slideNext.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/slide/slidePrev.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/slide/slideReset.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/slide/slideToClosest.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/slide/slideToClickedSlide.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/loop/loopCreate.js": {
+      "bytes": 1998,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/loop/loopFix.js": {
+      "bytes": 1268,
+      "imports": []
+    },
+    "node_modules/swiper/core/loop/loopDestroy.js": {
+      "bytes": 310,
+      "imports": []
+    },
+    "node_modules/swiper/core/loop/index.js": {
+      "bytes": 180,
+      "imports": [
+        {
+          "path": "node_modules/swiper/core/loop/loopCreate.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/loop/loopFix.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/loop/loopDestroy.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/grab-cursor/setGrabCursor.js": {
+      "bytes": 511,
+      "imports": []
+    },
+    "node_modules/swiper/core/grab-cursor/unsetGrabCursor.js": {
+      "bytes": 289,
+      "imports": []
+    },
+    "node_modules/swiper/core/grab-cursor/index.js": {
+      "bytes": 154,
+      "imports": [
+        {
+          "path": "node_modules/swiper/core/grab-cursor/setGrabCursor.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/grab-cursor/unsetGrabCursor.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/events/onTouchStart.js": {
+      "bytes": 4335,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/events/onTouchMove.js": {
+      "bytes": 6711,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/events/onTouchEnd.js": {
+      "bytes": 4042,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/events/onResize.js": {
+      "bytes": 1091,
+      "imports": []
+    },
+    "node_modules/swiper/core/events/onClick.js": {
+      "bytes": 322,
+      "imports": []
+    },
+    "node_modules/swiper/core/events/onScroll.js": {
+      "bytes": 904,
+      "imports": []
+    },
+    "node_modules/swiper/core/events/index.js": {
+      "bytes": 2713,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/events/onTouchStart.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/events/onTouchMove.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/events/onTouchEnd.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/events/onResize.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/events/onClick.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/events/onScroll.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/breakpoints/setBreakpoint.js": {
+      "bytes": 2568,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/breakpoints/getBreakpoint.js": {
+      "bytes": 1153,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/breakpoints/index.js": {
+      "bytes": 148,
+      "imports": [
+        {
+          "path": "node_modules/swiper/core/breakpoints/setBreakpoint.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/breakpoints/getBreakpoint.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/classes/addClasses.js": {
+      "bytes": 1295,
+      "imports": []
+    },
+    "node_modules/swiper/core/classes/removeClasses.js": {
+      "bytes": 188,
+      "imports": []
+    },
+    "node_modules/swiper/core/classes/index.js": {
+      "bytes": 139,
+      "imports": [
+        {
+          "path": "node_modules/swiper/core/classes/addClasses.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/classes/removeClasses.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/images/loadImage.js": {
+      "bytes": 766,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/images/preloadImages.js": {
+      "bytes": 777,
+      "imports": []
+    },
+    "node_modules/swiper/core/images/index.js": {
+      "bytes": 136,
+      "imports": [
+        {
+          "path": "node_modules/swiper/core/images/loadImage.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/images/preloadImages.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/check-overflow/index.js": {
+      "bytes": 895,
+      "imports": []
+    },
+    "node_modules/swiper/core/defaults.js": {
+      "bytes": 3151,
+      "imports": []
+    },
+    "node_modules/swiper/core/moduleExtendParams.js": {
+      "bytes": 1140,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/core/core.js": {
+      "bytes": 16821,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/get-support.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/get-device.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/get-browser.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/modules/resize/resize.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/modules/observer/observer.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/events-emitter.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/update/index.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/translate/index.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/transition/index.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/slide/index.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/loop/index.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/grab-cursor/index.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/events/index.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/breakpoints/index.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/classes/index.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/images/index.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/check-overflow/index.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/defaults.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/core/moduleExtendParams.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/virtual/virtual.js": {
+      "bytes": 8041,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/keyboard/keyboard.js": {
+      "bytes": 4242,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/mousewheel/mousewheel.js": {
+      "bytes": 14183,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/shared/create-element-if-not-defined.js": {
+      "bytes": 656,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/navigation/navigation.js": {
+      "bytes": 4724,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/create-element-if-not-defined.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/shared/classes-to-selector.js": {
+      "bytes": 212,
+      "imports": []
+    },
+    "node_modules/swiper/modules/pagination/pagination.js": {
+      "bytes": 13728,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/classes-to-selector.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/create-element-if-not-defined.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/scrollbar/scrollbar.js": {
+      "bytes": 9258,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/create-element-if-not-defined.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/parallax/parallax.js": {
+      "bytes": 3554,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/zoom/zoom.js": {
+      "bytes": 20566,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/lazy/lazy.js": {
+      "bytes": 9625,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/controller/controller.js": {
+      "bytes": 5690,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/a11y/a11y.js": {
+      "bytes": 8677,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/classes-to-selector.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/history/history.js": {
+      "bytes": 3904,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/hash-navigation/hash-navigation.js": {
+      "bytes": 2782,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/autoplay/autoplay.js": {
+      "bytes": 5895,
+      "imports": [
+        {
+          "path": "node_modules/ssr-window/ssr-window.esm.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/thumbs/thumbs.js": {
+      "bytes": 7549,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/free-mode/free-mode.js": {
+      "bytes": 8181,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/utils.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/grid/grid.js": {
+      "bytes": 3317,
+      "imports": []
+    },
+    "node_modules/swiper/modules/manipulation/methods/appendSlide.js": {
+      "bytes": 487,
+      "imports": []
+    },
+    "node_modules/swiper/modules/manipulation/methods/prependSlide.js": {
+      "bytes": 644,
+      "imports": []
+    },
+    "node_modules/swiper/modules/manipulation/methods/addSlide.js": {
+      "bytes": 1498,
+      "imports": []
+    },
+    "node_modules/swiper/modules/manipulation/methods/removeSlide.js": {
+      "bytes": 1278,
+      "imports": []
+    },
+    "node_modules/swiper/modules/manipulation/methods/removeAllSlides.js": {
+      "bytes": 220,
+      "imports": []
+    },
+    "node_modules/swiper/modules/manipulation/manipulation.js": {
+      "bytes": 591,
+      "imports": [
+        {
+          "path": "node_modules/swiper/modules/manipulation/methods/appendSlide.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/manipulation/methods/prependSlide.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/manipulation/methods/addSlide.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/manipulation/methods/removeSlide.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/manipulation/methods/removeAllSlides.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/shared/effect-init.js": {
+      "bytes": 889,
+      "imports": []
+    },
+    "node_modules/swiper/shared/effect-target.js": {
+      "bytes": 272,
+      "imports": []
+    },
+    "node_modules/swiper/shared/effect-virtual-transition-end.js": {
+      "bytes": 940,
+      "imports": []
+    },
+    "node_modules/swiper/modules/effect-fade/effect-fade.js": {
+      "bytes": 1841,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/effect-init.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-target.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-virtual-transition-end.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/effect-cube/effect-cube.js": {
+      "bytes": 5732,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-init.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/shared/create-shadow.js": {
+      "bytes": 498,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/dom.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/effect-flip/effect-flip.js": {
+      "bytes": 3213,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/create-shadow.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-init.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-target.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-virtual-transition-end.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/effect-coverflow/effect-coverflow.js": {
+      "bytes": 4115,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/create-shadow.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-init.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-target.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/effect-creative/effect-creative.js": {
+      "bytes": 4812,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/create-shadow.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-init.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-target.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-virtual-transition-end.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/modules/effect-cards/effect-cards.js": {
+      "bytes": 3988,
+      "imports": [
+        {
+          "path": "node_modules/swiper/shared/create-shadow.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-init.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-target.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/shared/effect-virtual-transition-end.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "node_modules/swiper/swiper.esm.js": {
+      "bytes": 2075,
+      "imports": [
+        {
+          "path": "node_modules/swiper/core/core.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/virtual/virtual.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/keyboard/keyboard.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/mousewheel/mousewheel.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/navigation/navigation.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/pagination/pagination.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/scrollbar/scrollbar.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/parallax/parallax.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/zoom/zoom.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/lazy/lazy.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/controller/controller.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/a11y/a11y.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/history/history.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/hash-navigation/hash-navigation.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/autoplay/autoplay.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/thumbs/thumbs.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/free-mode/free-mode.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/grid/grid.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/manipulation/manipulation.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/effect-fade/effect-fade.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/effect-cube/effect-cube.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/effect-flip/effect-flip.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/effect-coverflow/effect-coverflow.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/effect-creative/effect-creative.js",
+          "kind": "import-statement"
+        },
+        {
+          "path": "node_modules/swiper/modules/effect-cards/effect-cards.js",
+          "kind": "import-statement"
+        }
+      ]
+    },
+    "index.js": {
+      "bytes": 205,
+      "imports": [
+        {
+          "path": "node_modules/swiper/swiper.esm.js",
+          "kind": "import-statement"
+        }
+      ]
+    }
+  },
+  "outputs": {
+    "public/index.js.map": {
+      "imports": [],
+      "exports": [],
+      "inputs": {},
+      "bytes": 232143
+    },
+    "public/index.js": {
+      "imports": [],
+      "exports": [],
+      "entryPoint": "index.js",
+      "inputs": {
+        "node_modules/ssr-window/ssr-window.esm.js": {
+          "bytesInOutput": 1450
+        },
+        "node_modules/dom7/dom7.esm.js": {
+          "bytesInOutput": 9369
+        },
+        "node_modules/swiper/shared/dom.js": {
+          "bytesInOutput": 479
+        },
+        "node_modules/swiper/shared/utils.js": {
+          "bytesInOutput": 2453
+        },
+        "node_modules/swiper/shared/get-support.js": {
+          "bytesInOutput": 447
+        },
+        "node_modules/swiper/shared/get-device.js": {
+          "bytesInOutput": 741
+        },
+        "node_modules/swiper/shared/get-browser.js": {
+          "bytesInOutput": 307
+        },
+        "node_modules/swiper/core/modules/resize/resize.js": {
+          "bytesInOutput": 800
+        },
+        "node_modules/swiper/core/modules/observer/observer.js": {
+          "bytesInOutput": 896
+        },
+        "node_modules/swiper/core/events-emitter.js": {
+          "bytesInOutput": 1526
+        },
+        "node_modules/swiper/core/update/updateSize.js": {
+          "bytesInOutput": 552
+        },
+        "node_modules/swiper/core/update/updateSlides.js": {
+          "bytesInOutput": 4459
+        },
+        "node_modules/swiper/core/update/updateAutoHeight.js": {
+          "bytesInOutput": 675
+        },
+        "node_modules/swiper/core/update/updateSlidesOffset.js": {
+          "bytesInOutput": 135
+        },
+        "node_modules/swiper/core/update/updateSlidesProgress.js": {
+          "bytesInOutput": 855
+        },
+        "node_modules/swiper/core/update/updateProgress.js": {
+          "bytesInOutput": 535
+        },
+        "node_modules/swiper/core/update/updateSlidesClasses.js": {
+          "bytesInOutput": 1709
+        },
+        "node_modules/swiper/core/update/updateActiveIndex.js": {
+          "bytesInOutput": 877
+        },
+        "node_modules/swiper/core/update/updateClickedSlide.js": {
+          "bytesInOutput": 462
+        },
+        "node_modules/swiper/core/update/index.js": {
+          "bytesInOutput": 189
+        },
+        "node_modules/swiper/core/translate/getTranslate.js": {
+          "bytesInOutput": 219
+        },
+        "node_modules/swiper/core/translate/setTranslate.js": {
+          "bytesInOutput": 539
+        },
+        "node_modules/swiper/core/translate/minTranslate.js": {
+          "bytesInOutput": 38
+        },
+        "node_modules/swiper/core/translate/maxTranslate.js": {
+          "bytesInOutput": 59
+        },
+        "node_modules/swiper/core/translate/translateTo.js": {
+          "bytesInOutput": 1384
+        },
+        "node_modules/swiper/core/translate/index.js": {
+          "bytesInOutput": 88
+        },
+        "node_modules/swiper/core/transition/setTransition.js": {
+          "bytesInOutput": 101
+        },
+        "node_modules/swiper/core/transition/transitionEmit.js": {
+          "bytesInOutput": 355
+        },
+        "node_modules/swiper/core/transition/transitionStart.js": {
+          "bytesInOutput": 162
+        },
+        "node_modules/swiper/core/transition/transitionEnd.js": {
+          "bytesInOutput": 160
+        },
+        "node_modules/swiper/core/transition/index.js": {
+          "bytesInOutput": 62
+        },
+        "node_modules/swiper/core/slide/slideTo.js": {
+          "bytesInOutput": 2688
+        },
+        "node_modules/swiper/core/slide/slideToLoop.js": {
+          "bytesInOutput": 168
+        },
+        "node_modules/swiper/core/slide/slideNext.js": {
+          "bytesInOutput": 500
+        },
+        "node_modules/swiper/core/slide/slidePrev.js": {
+          "bytesInOutput": 920
+        },
+        "node_modules/swiper/core/slide/slideReset.js": {
+          "bytesInOutput": 121
+        },
+        "node_modules/swiper/core/slide/slideToClosest.js": {
+          "bytesInOutput": 515
+        },
+        "node_modules/swiper/core/slide/slideToClickedSlide.js": {
+          "bytesInOutput": 668
+        },
+        "node_modules/swiper/core/slide/index.js": {
+          "bytesInOutput": 116
+        },
+        "node_modules/swiper/core/loop/loopCreate.js": {
+          "bytesInOutput": 1043
+        },
+        "node_modules/swiper/core/loop/loopFix.js": {
+          "bytesInOutput": 499
+        },
+        "node_modules/swiper/core/loop/loopDestroy.js": {
+          "bytesInOutput": 203
+        },
+        "node_modules/swiper/core/loop/index.js": {
+          "bytesInOutput": 49
+        },
+        "node_modules/swiper/core/grab-cursor/setGrabCursor.js": {
+          "bytesInOutput": 347
+        },
+        "node_modules/swiper/core/grab-cursor/unsetGrabCursor.js": {
+          "bytesInOutput": 175
+        },
+        "node_modules/swiper/core/grab-cursor/index.js": {
+          "bytesInOutput": 45
+        },
+        "node_modules/swiper/core/events/onTouchStart.js": {
+          "bytesInOutput": 2068
+        },
+        "node_modules/swiper/core/events/onTouchMove.js": {
+          "bytesInOutput": 3747
+        },
+        "node_modules/swiper/core/events/onTouchEnd.js": {
+          "bytesInOutput": 1926
+        },
+        "node_modules/swiper/core/events/onResize.js": {
+          "bytesInOutput": 585
+        },
+        "node_modules/swiper/core/events/onClick.js": {
+          "bytesInOutput": 196
+        },
+        "node_modules/swiper/core/events/onScroll.js": {
+          "bytesInOutput": 445
+        },
+        "node_modules/swiper/core/events/index.js": {
+          "bytesInOutput": 1132
+        },
+        "node_modules/swiper/core/breakpoints/setBreakpoint.js": {
+          "bytesInOutput": 1188
+        },
+        "node_modules/swiper/core/breakpoints/getBreakpoint.js": {
+          "bytesInOutput": 503
+        },
+        "node_modules/swiper/core/breakpoints/index.js": {
+          "bytesInOutput": 43
+        },
+        "node_modules/swiper/core/classes/addClasses.js": {
+          "bytesInOutput": 656
+        },
+        "node_modules/swiper/core/classes/removeClasses.js": {
+          "bytesInOutput": 100
+        },
+        "node_modules/swiper/core/classes/index.js": {
+          "bytesInOutput": 40
+        },
+        "node_modules/swiper/core/images/loadImage.js": {
+          "bytesInOutput": 193
+        },
+        "node_modules/swiper/core/images/preloadImages.js": {
+          "bytesInOutput": 464
+        },
+        "node_modules/swiper/core/images/index.js": {
+          "bytesInOutput": 39
+        },
+        "node_modules/swiper/core/check-overflow/index.js": {
+          "bytesInOutput": 422
+        },
+        "node_modules/swiper/core/defaults.js": {
+          "bytesInOutput": 2033
+        },
+        "node_modules/swiper/core/moduleExtendParams.js": {
+          "bytesInOutput": 386
+        },
+        "node_modules/swiper/core/core.js": {
+          "bytesInOutput": 7536
+        },
+        "node_modules/swiper/swiper.esm.js": {
+          "bytesInOutput": 0
+        },
+        "node_modules/swiper/shared/create-element-if-not-defined.js": {
+          "bytesInOutput": 230
+        },
+        "node_modules/swiper/modules/navigation/navigation.js": {
+          "bytesInOutput": 2524
+        },
+        "index.js": {
+          "bytesInOutput": 109
+        }
+      },
+      "bytes": 66751
+    }
+  }
+}

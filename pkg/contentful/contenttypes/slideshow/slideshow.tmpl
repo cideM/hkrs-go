@@ -1,0 +1,13 @@
+<section class="full-width slideshow">
+  <div class="swiper">
+    <div class="slideshow-title"><h1>{{$.Title}}</h1></div>
+    <div class="swiper-wrapper">
+    {{range $i, $child := .Children}}
+      {{$child.Render $.RenderContext}}
+    {{end}}
+    </div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
+    </div>
+  </div>
+</section>

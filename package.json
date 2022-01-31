@@ -1,0 +1,13 @@
+{
+  "name": "hkrs-go",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cideM/hkrs-go.git",
+  "author": "Florian Beeres <yuuki@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.14.18",
+    "sass": "^1.49.7",
+    "swiper": "^8.0.3"
+  }
+}

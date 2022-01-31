@@ -1,0 +1,42 @@
+{{define "page"}}
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {{if .Page.NoIndex}}
+    <meta name="robots" content="noindex">
+    {{end}}
+    <link rel="stylesheet" href="/styles.css" />
+    <title>{{.Page.Title}}</title>
+  </head>
+
+  <body>
+    <nav>
+      <div>
+        <div>
+        {{range $i, $other := .TopLinks}}
+          {{if (gt $i 0)}}<span class="nav-divider">|</span>{{end}} <a class="{{if (eq $.Page.URL $other.Path)}}active{{end}}" href="{{$other.Path}}.html">{{$other.Title}}</a>
+        {{end}}
+        </div>
+        <div>{{$.NavLogo}}</div>
+      </div>
+    </nav>
+    {{if $.CTA}}{{$.CTA.Render $.RenderContext}}{{end}}
+    {{if $.Slideshow}}
+      {{$.Slideshow.Render $.RenderContext}}
+    {{end}}
+    <main>
+      {{range $i, $block := .Page.Content}}
+        {{$block.Render $.RenderContext}}
+      {{end}}
+    </main>
+    <footer>
+      {{range $i, $other := .BottomLinks}}
+      {{if (gt $i 0)}}<span class="nav-divider">|</span>{{end}} <a class="{{if (eq $.Page.URL $other.Path)}}active{{end}}" href="{{$other.Path}}.html">{{$other.Title}}</a>
+      {{end}}
+    </footer>
+    <script src="/index.js"></script>
+  </body>
+</html>
+{{end}}
