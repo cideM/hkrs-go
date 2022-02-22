@@ -4,6 +4,11 @@
   [build.environment]
     GO_VERSION = "1.16"
 
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+
 [[redirects]]
   from = "/advanced"
   to = "/advanced.html"
