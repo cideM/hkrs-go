@@ -1,6 +1,8 @@
 [build]
   publish = "public/"
   command = "./build"
+  [build.environment]
+    GO_VERSION = "1.16"
 
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
