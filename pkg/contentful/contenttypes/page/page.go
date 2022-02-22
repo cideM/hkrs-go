@@ -22,6 +22,7 @@ type Page struct {
 	Content        []link.Link
 	Slideshow      *link.Link
 	CTA            *link.Link
+	TabTitle       string
 	TopNav         bool
 	Position       int
 }
@@ -31,6 +32,7 @@ type Fields struct {
 	Blocks    []link.Link `json:"blocks"`
 	Title     string      `json:"title"`
 	Position  int         `json:"position"`
+	TabTitle  string      `json:"tabTitle"`
 	CTA       *link.Link  `json:"callToAction"`
 	TopNav    bool        `json:"topNavigation"`
 	Slideshow *link.Link  `json:"slideshow"`
@@ -52,6 +54,7 @@ func New(id string, s json.RawMessage, noindex bool) (Page, error) {
 		TopNav:    f.TopNav,
 		CTA:       f.CTA,
 		Title:     f.Title,
+		TabTitle:  f.TabTitle,
 	}, nil
 }
 
