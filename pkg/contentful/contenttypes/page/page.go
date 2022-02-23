@@ -22,20 +22,22 @@ type Page struct {
 	Content        []link.Link
 	Slideshow      *link.Link
 	CTA            *link.Link
+	Description    string
 	TabTitle       string
 	TopNav         bool
 	Position       int
 }
 
 type Fields struct {
-	URL       string      `json:"url"`
-	Blocks    []link.Link `json:"blocks"`
-	Title     string      `json:"title"`
-	Position  int         `json:"position"`
-	TabTitle  string      `json:"tabTitle"`
-	CTA       *link.Link  `json:"callToAction"`
-	TopNav    bool        `json:"topNavigation"`
-	Slideshow *link.Link  `json:"slideshow"`
+	URL         string      `json:"url"`
+	Blocks      []link.Link `json:"blocks"`
+	Title       string      `json:"title"`
+	Description string      `json:"description"`
+	Position    int         `json:"position"`
+	TabTitle    string      `json:"tabTitle"`
+	CTA         *link.Link  `json:"callToAction"`
+	TopNav      bool        `json:"topNavigation"`
+	Slideshow   *link.Link  `json:"slideshow"`
 }
 
 func New(id string, s json.RawMessage, noindex bool) (Page, error) {
@@ -45,16 +47,17 @@ func New(id string, s json.RawMessage, noindex bool) (Page, error) {
 		return Page{}, err
 	}
 	return Page{
-		NoIndex:   noindex,
-		Slideshow: f.Slideshow,
-		ID:        id,
-		Content:   f.Blocks,
-		URL:       f.URL,
-		Position:  f.Position,
-		TopNav:    f.TopNav,
-		CTA:       f.CTA,
-		Title:     f.Title,
-		TabTitle:  f.TabTitle,
+		NoIndex:     noindex,
+		Slideshow:   f.Slideshow,
+		ID:          id,
+		Content:     f.Blocks,
+		URL:         f.URL,
+		Position:    f.Position,
+		TopNav:      f.TopNav,
+		CTA:         f.CTA,
+		Title:       f.Title,
+		TabTitle:    f.TabTitle,
+		Description: f.Description,
 	}, nil
 }
 

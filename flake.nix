@@ -35,7 +35,6 @@
             nodejs-slim
             yarn
             caddy
-            miniserve
           ];
         };
       }
