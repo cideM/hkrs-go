@@ -78,13 +78,13 @@ func (b Dates) Render(rctx contentful.RenderContext) (template.HTML, error) {
 		return "", err
 	}
 	r := strings.NewReplacer(
-		"Monday", "Montag",
-		"Tuesday", "Dienstag",
-		"Wednesday", "Mittwoch",
-		"Thursday", "Donnerstag",
-		"Friday", "Freitag",
-		"Saturday", "Samstag",
-		"Sunday", "Sonntag",
+		"Monday", "Mo",
+		"Tuesday", "Di",
+		"Wednesday", "Mi",
+		"Thursday", "Do",
+		"Friday", "Fr",
+		"Saturday", "Sa",
+		"Sunday", "So",
 	)
 
 	renderDates := make([]renderDate, len(b.Dates))
