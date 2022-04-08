@@ -2,7 +2,7 @@
 @use "modules/navigation/navigation"
 
 $nav-height: 3rem
-$mobile-width: 800px
+$mobile-width: 500px
 $tablet-width: 1000px
 $desktop-width: 1300px
 $page-padding-mobile-x: 1em
@@ -108,6 +108,8 @@ section h1
   max-width: 100%
   padding: 0
 
+  height: 800px
+
   @media screen and (min-width: $mobile-width) and (max-height: 1000px)
     height: 600px
 
@@ -116,8 +118,6 @@ section h1
 
   @media screen and (max-width: $mobile-width)
     height: 400px
-
-  height: 800px
 
   & .swiper
     height: inherit
@@ -149,7 +149,9 @@ nav
   align-items: center
 
   & svg
-    height: $nav-height * 0.8
+    height: $nav-height * 0.6
+    @media screen and (min-width: $mobile-width)
+      height: $nav-height * 0.8
 
   & > div
     & > :last-child
