@@ -3,8 +3,8 @@
 
 $nav-height: 3rem
 $mobile-width: 500px
-$tablet-width: 1000px
-$desktop-width: 1300px
+$tablet-width: 800px
+$desktop-width: 1200px
 $page-padding-mobile-x: 1em
 $page-padding-mobile-y: 1em
 
@@ -108,16 +108,13 @@ section h1
   max-width: 100%
   padding: 0
 
-  height: 800px
+  height: 700px
 
-  @media screen and (min-width: $mobile-width) and (max-height: 1000px)
-    height: 600px
+  @media screen and (max-height: 500px)
+    height: 250px
 
-  @media screen and (min-width: $mobile-width) and (max-height: 500px)
-    height: 350px
-
-  @media screen and (max-width: $mobile-width)
-    height: 400px
+  @media screen and (min-height: 500px) and (max-height: 900px)
+    height: 500px
 
   & .swiper
     height: inherit
@@ -205,7 +202,7 @@ main
   & > *:first-child:last-child
     grid-column: 1 / -1
 
-  @media screen and (min-width: $tablet-width)
+  @media screen and (min-width: $desktop-width)
     grid-template-columns: repeat(4, 1fr)
     & > *:not(:nth-child(-n+4))
       grid-column: span 2
