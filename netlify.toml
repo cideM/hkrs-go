@@ -5,9 +5,6 @@
     GO_VERSION = "1.16"
 
 [[plugins]]
-  package = "@netlify/plugin-lighthouse"
-
-[[plugins]]
   package = "@netlify/plugin-sitemap"
 
 [[redirects]]
