@@ -20,7 +20,7 @@ type formData struct {
 
 var (
 	// "mo-20-09-fr-24-09-2021"
-	yearRe *regexp.Regexp = regexp.MustCompile(`(?P<FromDay>\w\w)-(?P<FromDayNum>\d\d)-(?P<FromMonth>\d\d)-(?P<UntilDay>\w\w)-(?P<UntilDayNum>\d\d)-(?P<UntilMonth>\d\d)-(?P<Year>\d\d\d\d)`)
+	yearRe *regexp.Regexp = regexp.MustCompile(`(?P<FromDay>\w\w)-(?P<FromDayNum>\d+)-(?P<FromMonth>\d+)-(?P<UntilDay>\w\w)-(?P<UntilDayNum>\d+)-(?P<UntilMonth>\d+)-(?P<Year>\d+)`)
 )
 
 func getText(node *html.Node) string {
